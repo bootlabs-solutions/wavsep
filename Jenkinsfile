@@ -1,3 +1,5 @@
-SAST_semgrep{
-    
+@Library(['secops-dsl'])_
+SAST_semgrep
+{
+
 }
