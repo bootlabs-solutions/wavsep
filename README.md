@@ -5,8 +5,7 @@
 <h3>Alternate Source Code Repository</h3>	
 hello world
 how are you
-hello world
-how are you
+
 <p>
 WAVSEP is  vulnerable web application designed to help assessing the features, quality and accuracy of web application vulnerability scanners.<br>
 This evaluation platform contains a collection of unique vulnerable web pages that can be used to test the various properties of web application scanners.<br>
